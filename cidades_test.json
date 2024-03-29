@@ -1,0 +1,21 @@
+{
+   "Acre": [
+      {"municipio":"acrelandia-ac"},
+      {"municipio":"assis-brasil-ac"}
+   ],
+   "Alagoas": [
+      {"municipio":"agua-branca-al"},
+      {"municipio":"anadia-al"},
+      {"municipio":"vicosa-al"}
+   ],
+   "Amapá": [
+      {"municipio":"amapa-ap"},
+      {"municipio":"calcoene-ap"},
+      {"municipio":"vitoria-do-jari-ap"}
+   ],
+    "Tocantins": [
+      {"municipio":"abreulandia-to"},
+      {"municipio":"aguiarnopolis-to"},      
+      {"municipio":"morrinhos-go"}
+    ]
+}
